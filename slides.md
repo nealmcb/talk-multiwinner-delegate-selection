@@ -1,6 +1,6 @@
 class: center, middle
 
-# Multi-winner Elections in the US: Case Study: Party Delegate Selection
+# Multi-winner Elections in the US: Case Study Proposal: Party Delegate Selection
 
 Neal McBurnett, 2019-06-27
 
@@ -60,6 +60,8 @@ How can we flesh out this experience and history of PR in the US, and figure out
 Celeste: https://www.coloradodems.org/delegate-selection-plan/
 
 > Delegates to assemblies shall be allocated in a fashion that fairly reflects the preferences expressed in a poll based on the highest contested race in the state or district for which the assembly is being held
+
+* Also note Aragon in the blockchain world!
 
 ---
 
